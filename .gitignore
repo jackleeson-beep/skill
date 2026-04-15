@@ -1,1 +1,12 @@
 .worktrees
+
+# macOS metadata
+.DS_Store
+
+# local release artifacts
+*.zip
+
+# local tool state
+.superpowers/brainstorm/**/state/server-info
+.superpowers/brainstorm/**/state/server.log
+.superpowers/brainstorm/**/state/server-stopped
