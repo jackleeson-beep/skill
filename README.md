@@ -1,5 +1,7 @@
 # Skill 学习
 
+English version: [README.en.md](README.en.md)
+
 这个仓库用于整理和沉淀面向 Cursor / Agent 的 `skill`、`harness` 和相关方法论实践。  
 重点不是单纯收集提示词，而是把工程团队在真实项目中使用 AI 时的流程、约束、分解方式和推广材料沉淀成可复用资产。
 

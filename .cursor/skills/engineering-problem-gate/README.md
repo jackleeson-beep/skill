@@ -1,5 +1,7 @@
 # Engineering Problem Gate
 
+English version: [README.en.md](README.en.md)
+
 `engineering-problem-gate` 是一个面向企业工程团队的 Cursor Skill。  
 它的目标是让工程师在使用 Cursor 或 agent 时，先补齐项目背景、先定义问题、先做结构化分解，再决定是否进入方案、实现，或沉淀为 `skill / harness`。
 

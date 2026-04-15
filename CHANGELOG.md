@@ -4,7 +4,12 @@ All notable changes to this repository will be documented in this file.
 
 ## [Unreleased]
 
-- No unreleased changes yet.
+### Added
+
+- Added `flow-boundary-notes.md` to clarify where `engineering-problem-gate` should stop and when work should move into later design or delivery stages.
+- Added `ai-delivery-loop.md` to describe the larger four-stage delivery framework around the gate skill.
+- Added `v0.3-iteration-plan.md` to reposition `engineering-problem-gate` as a delivery entry skill rather than only a problem-framing gate.
+- Added English companion documentation and bilingual language support guidance for the `engineering-problem-gate` skill suite.
 
 ## [v0.1] - 2026-04-15
 
