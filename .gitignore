@@ -7,6 +7,7 @@
 *.zip
 
 # local tool state
+.superpowers/
 .superpowers/brainstorm/**/state/server-info
 .superpowers/brainstorm/**/state/server.log
 .superpowers/brainstorm/**/state/server-stopped
